@@ -30,5 +30,7 @@ forks sometimes coming apart and then rejoining the main channel and sometimes n
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+The result is that it merges the forked branch back into the master branch.
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
