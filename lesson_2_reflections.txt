@@ -23,6 +23,10 @@ Branches help keep both changes seperate from each other.
 
 How do the diagrams help you visualize the branch structure?
 
+They made me realize that the branch structure looks like a flowing river with
+
+forks sometimes coming apart and then rejoining the main channel and sometimes not rejoining
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
